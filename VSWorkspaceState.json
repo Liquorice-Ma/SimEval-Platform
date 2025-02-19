@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\STKSimTS",
+    "\\STKSimTS\\Controls",
+    "\\STKSimTS\\Controls\\Show",
+    "\\STKSimTS\\Controls\\Show\\Mission"
+  ],
+  "SelectedNode": "\\STKSimTS\\Controls\\Show\\ServiceChoicePanel.Designer.cs",
+  "PreviewInSolutionExplorer": false
+}
